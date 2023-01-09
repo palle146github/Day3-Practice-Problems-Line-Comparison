@@ -42,7 +42,7 @@ public class Main {
             System.out.println("Both lines are equal");
         } else  {
             difference= (Double.valueOf(lengthoftheline2))- (Double.valueOf(lengthoftheline1));
-            System.out.println("Line 2 is longer than line 1 by " +difference);
+            System.out.println("Line 1 is smaller than line 2 by " +difference);
         }
 
     }
