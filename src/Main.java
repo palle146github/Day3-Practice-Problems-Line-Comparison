@@ -33,7 +33,7 @@ public class Main {
         System.out.println("Comparing the equality of the lines of based on end points");
         String diffinline1 =String.valueOf(Math.floor((bx2-ax2)));
         String diffinline2 =String.valueOf(Math.floor((by2-ay2)));
-        if(diffinline1.equals(diffinline2)) {
+        if(lengthoftheline1.equals(lengthoftheline2)) {
             System.out.println("The two lines are equal");
         }else {
             System.out.println("The two lines are not equal");
